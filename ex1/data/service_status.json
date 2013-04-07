@@ -1,0 +1,189 @@
+[
+    {
+        "Date": [
+            null
+        ], 
+        "Time": [
+            null
+        ], 
+        "name": [
+            "123"
+        ], 
+        "status": [
+            "GOOD SERVICE"
+        ], 
+        "text": [
+            null
+        ]
+    }, 
+    {
+        "Date": [
+            null
+        ], 
+        "Time": [
+            null
+        ], 
+        "name": [
+            "456"
+        ], 
+        "status": [
+            "GOOD SERVICE"
+        ], 
+        "text": [
+            null
+        ]
+    }, 
+    {
+        "Date": [
+            null
+        ], 
+        "Time": [
+            null
+        ], 
+        "name": [
+            "7"
+        ], 
+        "status": [
+            "GOOD SERVICE"
+        ], 
+        "text": [
+            null
+        ]
+    }, 
+    {
+        "Date": [
+            "04/05/2013"
+        ], 
+        "Time": [
+            " 4:32AM"
+        ], 
+        "name": [
+            "ACE"
+        ], 
+        "status": [
+            "SANDY REROUTE"
+        ], 
+        "text": [
+            "\n                    <span class=\"TitleServiceChange\" >Sandy Reroute</span>\n                    <span class=\"DateStyle\">\n                    &nbsp;Posted:&nbsp;04/05/2013&nbsp; 4:32AM\n                    </span><br/><br/>\n                  <P>Until further notice:</P>\n<P>[A] No trains between <STRONG>Howard Beach-JFK/Broad Channel</STRONG> and the <STRONG>Rockaways</STRONG> due to damage sustained during hurricane Sandy.</P>\n<P>Free shuttle buses operate nonstop between <STRONG>Howard Beach</STRONG> [A] and <STRONG>Mott Av</STRONG>\u00a0[H] Stations.</P>\n<P>[H]\u00a0Free shuttle trains operate between <STRONG>Mott Av</STRONG> and <STRONG>Beach 90 St,</STRONG> days and evenings.</P>\n<P><STRONG>Q22</STRONG>\u00a0 buses provide local service in the Rockaways.</P>\n<P>Find out more at:\u00a0 <A title=blocked::http://www.mta.info/nyct/service/RebuildingRockawaysAfterHurricanSandy.htm href=\"http://www.mta.info/nyct/service/RebuildingRockawaysAfterHurricanSandy.htm\"><FONT color=#606420>http://www.mta.info/nyct/service/RebuildingRockawaysAfterHurricanSandy.htm</FONT></A></P>\n                <br/><br/>\n              "
+        ]
+    }, 
+    {
+        "Date": [
+            null
+        ], 
+        "Time": [
+            null
+        ], 
+        "name": [
+            "BDFM"
+        ], 
+        "status": [
+            "GOOD SERVICE"
+        ], 
+        "text": [
+            null
+        ]
+    }, 
+    {
+        "Date": [
+            null
+        ], 
+        "Time": [
+            null
+        ], 
+        "name": [
+            "G"
+        ], 
+        "status": [
+            "GOOD SERVICE"
+        ], 
+        "text": [
+            null
+        ]
+    }, 
+    {
+        "Date": [
+            null
+        ], 
+        "Time": [
+            null
+        ], 
+        "name": [
+            "JZ"
+        ], 
+        "status": [
+            "GOOD SERVICE"
+        ], 
+        "text": [
+            null
+        ]
+    }, 
+    {
+        "Date": [
+            null
+        ], 
+        "Time": [
+            null
+        ], 
+        "name": [
+            "L"
+        ], 
+        "status": [
+            "GOOD SERVICE"
+        ], 
+        "text": [
+            null
+        ]
+    }, 
+    {
+        "Date": [
+            "04/05/2013"
+        ], 
+        "Time": [
+            "12:00AM"
+        ], 
+        "name": [
+            "NQR"
+        ], 
+        "status": [
+            "PLANNED WORK"
+        ], 
+        "text": [
+            "\n                    <span class=\"TitlePlannedWork\" >Planned Work</span>\n                    <br/>\n                  <a class=\"plannedWorkDetailLink\" onclick=ShowHide(44306);>\n<b>[N] Astoria-bound trains run via the [D] from Stillwell Av to 36 St\n</a><br/><br/><div id= 44306 class=\"plannedWorkDetail\" ></b>Weekend, 9:45 PM Fri to 5 AM Mon, Apr 5 - 8\n<br>\n<br>Trains stop at 62 St-New Utrecht Av.\n<br>\n<br>For service <i>to</i> 86 St, Avenue U, Kings Hwy, Bay Pkwy, 20, 18 Avs, take the [D] or [N] to\n<br>62 St-New Utrecht Av and transfer to a Coney Island-bound [N].\n<br>\n<br>For service <i>to</i> Fort Hamilton Pkwy and 8 Av, take the [D] or [N] to 36 St and transfer to a\n<br>Coney Island-bound [N].\n<br>\n<br>For service <i>from</i> these stations, take the [N] to New Utrecht Av-62 St or Stillwell Av\n<br>and transfer to an Astoria-bound [N].\n<br>\n<br>For 59, 53 and 45 Sts, take the [R] instead. Transfer between trains at 36 St.\n<br><b>\n<br></div></b><br/>\n                <br/><br/>\n              "
+        ]
+    }, 
+    {
+        "Date": [
+            null
+        ], 
+        "Time": [
+            null
+        ], 
+        "name": [
+            "S"
+        ], 
+        "status": [
+            "GOOD SERVICE"
+        ], 
+        "text": [
+            null
+        ]
+    }, 
+    {
+        "Date": [
+            "04/05/2013"
+        ], 
+        "Time": [
+            "12:00AM"
+        ], 
+        "name": [
+            "SIR"
+        ], 
+        "status": [
+            "PLANNED WORK"
+        ], 
+        "text": [
+            "\n                    <span class=\"TitlePlannedWork\" >Planned Work</span>\n                    <br/>\n                  <a class=\"plannedWorkDetailLink\" onclick=ShowHide(45200);>\n<b>[SIR] No trains between St George and Clifton\n</a><br/><br/><div id= 45200 class=\"plannedWorkDetail\" >[SB] Free shuttle buses provide alternate service\n<br></b>Weekend, 9 PM Fri to 4 AM Mon, Apr 5 - 8\n<br>\n<br>[SIR] Service operates between <b>Tottenville </b>and <b>Clifton </b>Stations.\n<br>[SB] Shuttle buses operate between <b>Clifton </b>and <b>St George </b>Stations.\n<br>\n<br>&#149; Transfer between buses and trains at Clifton.\n<br>\n<br><table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides><tr><td bgcolor=#FAF8CC><b>Station</b><td bgcolor=#FAF8CC><b>Shuttle Bus Stop</b><tr><td>St George  <td>Ramp E<tr><td>Clifton<td>Bay St and Norwood Av</table>\n<br><table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box><td>&nbsp;&nbsp;[ad]&nbsp;&nbsp;<td><font size=1>This service change affects one or more ADA accessible stations. Please call 511 for help with planning<br>your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.&nbsp;&nbsp;</font></table>\n<br><b>\n<br></div></b><br/>\n                <br/><br/>\n              "
+        ]
+    }
+]
